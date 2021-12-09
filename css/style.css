@@ -229,3 +229,7 @@
       flex-direction: column !important;
     }
   }
+  .casestudyLink {
+      text-decoration: none;
+      color: #201B19;
+  }
